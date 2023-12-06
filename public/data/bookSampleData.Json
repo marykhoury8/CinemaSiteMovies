@@ -1,0 +1,122 @@
+[
+    {
+        "cover_image": "movie_1.jpg",
+        "director": "Jared Bush, Byron Howard, Charise Castro Smith",
+        "genre": "Musical, Fantasy, Comedy",
+        "imdb_link": "https://www.imdb.com/title/tt2953050/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_encanto",
+        "main_actors": "Stephanie Beatriz, María Cecilia Botero, Diane Guerrero, Wilmer Valderrama, and John Leguizamo, among others.",
+        "movie_title": "Encanto",
+        "producer": "Yvett Merino and Clark Spencer.",
+        "synopsis": "\"Encanto\" tells the story of the Madrigal family, who live in a magical house in the mountains of Colombia. Each member of the family possesses a unique gift, except for Mirabel. When the magic of the Encanto is in danger, Mirabel sets out on an adventure to save her family and their extraordinary home.\r\n\r\n\r\n\r\n\r\n\r\n\r\n"
+    },
+    {
+        "cover_image": "movie_2.jpg",
+        "director": "Greta Gerwig",
+        "genre": "Comedy, Fantasy",
+        "imdb_link": "https://www.imdb.com/title/tt1517268/?ref_=fn_al_tt_1",
+        "main_actors": "Margot Robbie, Ryan Gosling, Issa Rae",
+        "movie_title": "Barbie",
+        "producer": "David Heyman, Margot Robbie, Tom Ackerley, Robbie Brenner",
+        "synopsis": "Barbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Barbie Land. However, when they get a chance to go to the real world, they soon discover the joys and perils of living among humans."
+    },
+    {
+        "cover_image": "movie_3.jpg",
+        "director": "Domee Shi",
+        "Genre": "Adventure, Comedy, Drama, Family, Fantasy ",
+        "imdb_link": "https://www.imdb.com/title/tt8097030/?ref_=fn_al_tt_1",
+        "main_actors": "Rosalie Chiang, Sandra Oh, Ava Morse, Maitreyi Ramakrishnan ",
+        "movie_title": "Turning Red",
+        "producer": "Lindsey Collins",
+        "synopsis": "A thirteen-year-old girl is torn between staying her mother's dutiful daughter and the changes of adolescence. And as if the challenges were not enough, whenever she gets overly excited she transforms into a giant red panda.\r\n\r\n\r\n\r\n\r\n\r\n"
+    },
+    {
+        "cover_image": "movie_4.jpg",
+        "director": "Josh Boone",
+        "genre": "Drama, Romance",
+        "imdb_link": "https://www.imdb.com/title/tt2582846/?ref_=fn_al_tt_1",
+        "main_actors": "Shailene Woodley , Ansel Elgort ",
+        "movie_title": "The fault in our stars",
+        "producer": "Wyck Godfrey and Marty Bowen",
+        "synopsis": "The film tells the tale of Hazel and Gus, two youngsters who become close friends at a cancer support group. They set off on a moving and uplifting trip that alters their views on life, love, and the meaning of existence as they negotiate their personal health struggles and the difficulties of adolescent love."
+    },
+    {
+        "cover_image": "movie_5.jpg",
+        "director": "Enrico Casarosa",
+        "genre": "Animation, Adventure, Comedy",
+        "imdb_link": "https://www.imdb.com/title/tt12801262/?ref_=fn_al_tt_1",
+        "main_actors": "Jacob Tremblay, Jack Dylan Grazer, Emma Berman, Maya Rudolph and more.",
+        "movie_title": "Luca",
+        "producer": "Andrea Warren",
+        "synopsis": "The animated picture \"Luca\" tells the tale of a juvenile sea monster named Luca who spends a memorable summer on the Italian Riviera. He sets out on adventures with his new friend Alberto, keeping their true origins hidden from the local humans. They learn the true meaning of acceptance and camaraderie as they navigate the stunning coastal town together with a local girl named Giulia.\r\n\r\n\r\n\r\n\r\n"
+    },
+    {
+        "cover_image": "movie_6.jpg",
+        "director": "Justin Baldoni",
+        "genre": "Romance, Drama",
+        "imdb_link": "https://www.imdb.com/title/tt6472976/?ref_=nv_sr_srsg_0_tt_7_nm_1_q_Five%2520feet%2520",
+        "main_actors": "Haley Lu Richardson, Cole Sprouse",
+        "movie_title": "Five Feet Apart ",
+        "producer": "Cathy Schulman, Christopher H. Warner",
+        "synopsis": "The story of \"Five Feet Apart\" centers on Stella and Will, two teenage cystic fibrosis sufferers who become friends and fall in love while receiving care at the same hospital. But because of the nature of their condition, they have to keep a minimum of six feet between them to prevent cross-infection. The film follows their emotional journey as they struggle with their emotions and attempt to maintain a connection despite the physical limitations placed on them by their illness."
+    },
+    {
+        "cover_image": "movie_7.jpg",
+        "director": "Mike Mitchell, Walt Dohrn",
+        "genre": "Animation, Adventure, Comedy",
+        "imdb_link": "https://www.imdb.com/title/tt1679335/?ref_=fn_al_tt_2",
+        "main_actors": "Anna Kendrick, Justin Timberlake, Zooey Deschanel, Russell Brand, James Corden",
+        "movie_title": "Trolls",
+        "producer": "Gina Shay",
+        "synopsis": "The animated movie \"Trolls\" tells the story of the immensely happy Trolls who enjoy dancing, singing, and giving hugs. Unlike the pessimistic Bergens, who are only happy when they have Trolls in their tummies, they are cheerful all the time. Poppy, the happiest Troll ever born, and the grumpy Branch set off on a mission to save their pals when the Bergens invade Troll Village."
+    },
+    {
+        "cover_image": "movie_8.jpg",
+        "director": "Robert Luletic",
+        "genre": "Comedy, Romance",
+        "imdb_link": "https://www.imdb.com/title/tt0250494/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_Legall",
+        "main_actors": "Reese Witherspoon, Luke Wilson, Selma Blair",
+        "movie_title": "Legally Blonde",
+        "producer": "Marc Platt, Ric Kidney",
+        "synopsis": "Elle Woods (Reese Witherspoon) has it all. She wants nothing more than to be Mrs. Warner Huntington III. But there is one thing stopping him (Matthew Davis) from proposing: She is too blond. Elle rallies all of her resources and gets into Harvard, determined to win him back."
+    },
+    {
+        "Cover_Image": "movie_9.jpg",
+        "Director": "Peter DeLuise",
+        "Genre": "Family, Fantasy, Drama",
+        "imdb_link": "https://www.imdb.com/title/tt1646876/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_16%2520wishes",
+        "MainActors/Actresses": "Debby Ryan, Jean-Luc Bilodeau, Anna Mae Routledge, Karissa Tynes",
+        "MovieTitle": "16 wishes",
+        "Producer": "Robyn Snyder, Ron French",
+        "Synopsis": "Abby stars in this tale of a teen who can't wait to grow up. All her life she's been collecting wishes. On her 16th birthday, she's amazed when her wishes start to come true.\r\n"
+    },
+    {
+        "cover_image": "movie_10.jpg",
+        "director": "Rich Moore",
+        "genre": "Animation, Adventure, Comedy",
+        "imdb_link": "https://www.imdb.com/title/tt1772341/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_Wreck",
+        "main_actors": "John C. Reily, Sarah Silverman, Jack McBrayer, Jane Lynch",
+        "movie_title": "Wreck-It Ralph",
+        "producer": "Clark Spencer",
+        "synopsis": "Arcade-game character Wreck-It Ralph (John C. Reilly) is tired of always being the \"bad guy\" and losing to his \"good guy\" opponent, Fix-It Felix (Jack McBrayer). Finally, after decades of seeing all the glory go to Felix, Ralph decides to take matters into his own hands. He sets off on a game-hopping trip to prove that he has what it takes to be a hero. However, while on his quest, Ralph accidentally unleashes a deadly enemy that threatens the entire arcade."
+    },
+    {
+        "cover_image": "movie_11.jpg",
+        "director": "Chris Appelhans",
+        "genre": "Animation, Adventure, Comedy",
+        "imdb_link": "https://www.imdb.com/title/tt5562070/?ref_=fn_al_tt_1",
+        "main_actors": "John Cho, Jimmy Wong, Natasha Liu Bordizzo, Will Yun Lee",
+        "movie_title": "Wish Dragon",
+        "producer": "Aron Warner, Chris Bremble, and Jackie Chan",
+        "synopsis": "Determined teen Din is longing to reconnect with his childhood best friend when he meets a wish-granting dragon that shows him the magic of possibilities."
+    },
+    {
+        "cover_image": "movie_12.jpg",
+        "director": "Peter Sohn",
+        "genre": "Animation, Comedy, Family, Fantasy, Romance",
+        "imdb_link": "https://www.imdb.com/title/tt15789038/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_elemental",
+        "main_actors": "Leah Lewis, Mamoudou Athie, Ronnie Del Carmen, Shila Ommi and more ",
+        "movie_title": "Elemental",
+        "producer": "Denise Ream",
+        "synopsis": "In a city where fire, water, land, and air residents live together, a fiery young woman and a go-with-the-flow guy discover something elemental: how much they actually have in common."
+    }
+]
